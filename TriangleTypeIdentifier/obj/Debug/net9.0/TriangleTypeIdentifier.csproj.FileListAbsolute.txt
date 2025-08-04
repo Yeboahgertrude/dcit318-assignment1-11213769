@@ -1,0 +1,14 @@
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.exe
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.deps.json
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\refint\TriangleTypeIdentifier.dll
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\dutch\OneDrive\Desktop\hard\TriangleTypeIdentifier\obj\Debug\net9.0\ref\TriangleTypeIdentifier.dll
